@@ -1,0 +1,4 @@
+se gener contenido inicial con el sguiente prompt
+<!-- agrega una bienvenida y los datos generales del concierto y los artistas que participan-->
+    se utiliza lo sugerido por el agente
+    
